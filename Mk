@@ -1,0 +1,8 @@
+<div style="margin: auto 1.5em; display: inline-block;">
+  <img title="Nadia Bjorlin" alt="Nadia Bjorlin" src="headshot.nadia.png"/>
+  <br/>
+  Nadia Bjorlin
+</div> 
+Ref: https://bit.ly/3clhOos
+
+ 
